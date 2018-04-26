@@ -690,7 +690,7 @@
       "name": "Meta tag",
       "scope": "meta.tag",
       "settings": {
-        "foreground": "#3F4859"
+        "foreground": "#abb2bf"
       }
     },
     {
