@@ -92,14 +92,14 @@
       "name": "regexp constant character-class",
       "scope": "constant.other.character-class.regexp",
       "settings": {
-        "foreground": "#e06c75ff"
+        "foreground": "#abb2bf"
       }
     },
     {
       "name": "regexp operator.quantifier",
       "scope": "keyword.operator.quantifier.regexp",
       "settings": {
-        "foreground": "#d19a66ff"
+        "foreground": "#abb2bf"
       }
     },
     {
@@ -944,7 +944,7 @@
       "name": "Regular Expressions",
       "scope": "string.regexp",
       "settings": {
-        "foreground": "#57B6C2"
+        "foreground": "#abb2bf"
       }
     },
     {
